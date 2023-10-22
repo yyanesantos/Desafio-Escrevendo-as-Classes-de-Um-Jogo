@@ -1,6 +1,6 @@
 # ⚔️ Desafio Escrevendo as Classes de um Jogo
 
-Projeto desenvolvido como desafio de código para o Bootcamp Potência Tech Ifood - Programação do Zero, utilizando JavaScript, e proposto por Felipe Aguiar da DIO.
+Projeto desenvolvido como desafio de código para o [Bootcamp Potência Tech Ifood - Programação do Zero](https://www.dio.me/bootcamp/potencia-tech-ifood-programacao-do-zero), da [DIO](https://web.dio.me/home), utilizando JavaScript, e proposto por Felipe Aguiar da DIO.
 
 ## 📝 Descrição do Projeto 
 Desenvolver um programa em JavaScript que utilize um construtor para criar um heroi com nome, idade e tipo e, dependendo do tipo de heroi, realize um ataque especifíco.
